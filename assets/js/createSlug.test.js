@@ -1,5 +1,5 @@
 const createSlug = require('./createSlug.js');
-const posts = require('./db/posts.js');
+const posts = require('../../db/posts.js');
 
 
 test('dovrebbe ritornare una stringa', () => {

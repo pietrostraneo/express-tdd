@@ -1,5 +1,5 @@
 const slugify = require('slugify');
-const posts = require('./db/posts.js');
+const posts = require('../../db/posts.js');
 
 module.exports = (title, arrayOfPosts) => {
 
