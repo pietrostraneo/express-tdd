@@ -1,0 +1,12 @@
+{
+  "name": "express-tdd",
+  "version": "1.0.0",
+  "description": "Test-Driven Development",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
